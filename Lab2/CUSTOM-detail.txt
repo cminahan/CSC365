@@ -1,0 +1,14 @@
+CUSTOM
+https://www.kaggle.com/datasets/valbauman/student-engagement-online-learning-supplement
+
+The tables are uic, education, and employment. The education table outlines the population of people in various areas in California that
+are educated and the different degrees to which they have completed. The uic data is about the overall population of each of the listed
+counties. And the employment data states the unemployment rates of each county. They all show the different areas in California and how
+their population, education, and unemployment throughout the years are all related. 
+
+Challenges that I encountered was that there were so many columns to and different data points so I decided to condense it to California to
+make it easier to read and comprehend. 
+
+Which county has the most people who have completed Bachelor level education? 
+Does education level within each county correlate to the unemployment rate?
+Does population correlate with degrees of education or unemployment? 
